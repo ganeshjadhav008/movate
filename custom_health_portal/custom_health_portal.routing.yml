@@ -1,0 +1,31 @@
+custom_health_portal.submit_claims_form:
+  path: '/submit-claims'
+  defaults:
+    _form: '\Drupal\custom_health_portal\Form\SubmitClaimsForm'
+    _title: 'Submit Claims Form'
+  requirements:
+    _access: 'TRUE'
+  options:
+    _admin_route: TRUE
+
+custom_health_portal.view_claims:
+  path: '/view-claims'
+  defaults:
+    _form: '\Drupal\custom_health_portal\Form\ViewClaimsForm'
+    _title: 'Submit Claims Form'
+  requirements:
+    _access: 'TRUE'
+  options:
+    _admin_route: TRUE
+
+custom_health_portal.autocomplete:
+  path: '/autocomplete-json/autocomplete/{search}'
+  defaults:
+    _controller: '\Drupal\custom_health_portal\Controller\ClaimsAutoCompleteController::handleAutocomplete'
+    _format: 'json'
+    search: ''
+  requirements:
+    _access: 'TRUE'
+  options:
+    parameters:
+      search: ''

@@ -1,0 +1,130 @@
+[
+    {
+        "claims_number": 887921551,
+        "patient_name": "Emma Johnson",
+        "service_type": "medical",
+        "provider_name": "Garden State Medical Center, Cherrywood Heights, NJ",
+        "claim_value": "$23987.45",
+        "submission_date": "2024-02-03 07:31:00"
+    },
+    {
+        "claims_number": 453880352,
+        "patient_name": "Jr Liam Smith",
+        "service_type": "medical",
+        "provider_name": "Meadowview General Hospital, Willowdale Township, NJ",
+        "claim_value": "$67.89",
+        "submission_date": "2024-02-03 07:34:00"
+    },
+    {
+        "claims_number": 594319721,
+        "patient_name": "Olivia Davis",
+        "service_type": "dental",
+        "provider_name": "Liberty Regional Medical Center, Harbor City, NJ",
+        "claim_value": "$45.12",
+        "submission_date": "2024-02-03 07:37:00"
+    },
+    {
+        "claims_number": 198001486,
+        "patient_name": "Noah Brown",
+        "service_type": "medical",
+        "provider_name": "Pinecrest Community Hospital, Woodland Park, NJ",
+        "claim_value": "$89543.67",
+        "submission_date": "2024-02-03 07:38:00"
+    },
+    {
+        "claims_number": 503018904,
+        "patient_name": "Ava Taylor IV",
+        "service_type": "dental",
+        "provider_name": "Riverside Healthcare Pavilion, Riverbend Village, NJ",
+        "claim_value": "$12.67",
+        "submission_date": "2024-02-03 07:39:00"
+    },
+    {
+        "claims_number": 935416247,
+        "patient_name": "Isabella Martinez",
+        "service_type": "medical",
+        "provider_name": "Summit County Medical Center, Hilltop Springs, NJ",
+        "claim_value": "$56789.23",
+        "submission_date": "2024-02-01 07:39:00"
+    },
+    {
+        "claims_number": 890036322,
+        "patient_name": "Sophia Anderson",
+        "service_type": "medical",
+        "provider_name": "Coastal Plains Hospital, Oceanview Harbor, NJ",
+        "claim_value": "$34567.89",
+        "submission_date": "2024-02-01 07:40:00"
+    },
+    {
+        "claims_number": 441219184,
+        "patient_name": "Sr Jackson Wilson",
+        "service_type": "dental",
+        "provider_name": "Maplewood Wellness Center, Autumn Grove, NJ",
+        "claim_value": "$78.34",
+        "submission_date": "2024-02-03 07:41:00"
+    },
+    {
+        "claims_number": 703668095,
+        "patient_name": "Aiden Moore",
+        "service_type": "medical",
+        "provider_name": "Bridgewater Memorial Hospital, Brookside Heights, NJ",
+        "claim_value": "$23456.78",
+        "submission_date": "2024-02-03 07:43:00"
+    },
+    {
+        "claims_number": 382526853,
+        "patient_name": "Lucas Thompson",
+        "service_type": "medical",
+        "provider_name": "Central Valley Regional Medical Center, Greenfield Junction, NJ",
+        "claim_value": "$4.56",
+        "submission_date": "2024-02-03 07:43:00"
+    },
+    {
+        "claims_number": 936464516,
+        "patient_name": "Mia Harris",
+        "service_type": "dental",
+        "provider_name": "Liberty Regional Medical Center, Harbor City, NJ",
+        "claim_value": "$45678.90",
+        "submission_date": "2024-02-03 07:43:00"
+    },
+    {
+        "claims_number": 600210672,
+        "patient_name": "Ethan Rodriguez",
+        "service_type": "medical",
+        "provider_name": "Pinecrest Community Hospital, Woodland Park, NJ",
+        "claim_value": "$89012.34",
+        "submission_date": "2024-02-03 07:44:00"
+    },
+    {
+        "claims_number": 223212241,
+        "patient_name": "Harper Turner",
+        "service_type": "dental",
+        "provider_name": "Riverside Healthcare Pavilion, Riverbend Village, NJ",
+        "claim_value": "$56.01",
+        "submission_date": "2024-02-03 07:44:00"
+    },
+    {
+        "claims_number": 272706586,
+        "patient_name": "Evelyn White",
+        "service_type": "medical",
+        "provider_name": "Summit County Medical Center, Hilltop Springs, NJ",
+        "claim_value": "$32109.87",
+        "submission_date": "2024-02-03 07:45:00"
+    },
+    {
+        "claims_number": 329922070,
+        "patient_name": "Michael Lee",
+        "service_type": "dental",
+        "provider_name": "Coastal Plains Hospital, Oceanview Harbor, NJ",
+        "claim_value": "$67.12",
+        "submission_date": "2024-02-03 07:45:00"
+    },
+    {
+        "claims_number": 798325578,
+        "patient_name": "Peter Wang",
+        "service_type": "medical",
+        "provider_name": "Coastal Plains Hospital, Oceanview Harbor, NJ",
+        "claim_value": "$10.00",
+        "submission_date": "2024-02-03 07:46:00"
+    }
+]

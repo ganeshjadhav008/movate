@@ -1,0 +1,9 @@
+custom_health_portal.submit_claims_form:
+  route_name: custom_health_portal.submit_claims_form
+  title: 'Submit Claims'
+  base_route: custom_health_portal.submit_claims_form
+
+custom_health_portal.view_claims:
+  route_name: custom_health_portal.view_claims
+  title: 'View Claims'
+  base_route: custom_health_portal.submit_claims_form

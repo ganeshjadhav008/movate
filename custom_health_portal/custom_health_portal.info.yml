@@ -1,0 +1,10 @@
+name: 'Custom Health Portal'
+type: module
+description: 'Health Insurance Portal for Claims'
+core_version_requirement: ^8 || ^9 || ^10
+package: Custom
+version: 1.0
+dependencies:
+  - restui
+  - serialization
+  - rest
