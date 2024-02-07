@@ -25,7 +25,7 @@ table format.
 preferred.
 
 
-Step to Confiure Module
+Step to config Module
 
 1. Place Module inside module->custom dir
 2. Enable Module via drush[drush pm:enable <module_name>] or manually [/admin/modules]
